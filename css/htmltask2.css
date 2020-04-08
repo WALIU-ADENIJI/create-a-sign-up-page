@@ -1,0 +1,119 @@
+body{
+	background:rgb(6,40,99);
+}
+.icon{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.piggy{
+	font-family: arial;
+	font-size: 40px;
+	color: white;
+}
+.welcome{
+	background-color: white;
+	margin-left: 420px;
+	margin-right:420px;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	padding-bottom:1px;
+	margin-bottom:50px;
+}
+.intro{
+	text-align: center;
+	font-family: segoe ui;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.secure{
+	color : rgb(6,40,99);
+}
+.form{
+	padding-left: 50px;
+}
+.label1{
+	font-family:segoe ui;
+}
+.fullname{
+	border : 1px;
+	background-color: rgb(226,232,240);
+	margin-top:5px;
+	padding-left: 10px;
+	padding-right: 215px;
+	padding-bottom: 18px;
+	padding-top: 18px;
+	margin-bottom: 25px;
+}
+.email{
+	border : 1px;
+	background-color: rgb(226,232,240);
+	margin-top:5px;
+	padding-left: 10px;
+	padding-right: 215px;
+	padding-bottom: 18px;
+	padding-top: 18px;
+	margin-bottom: 25px;
+}
+.phone{
+	border : 1px;
+	background-color: rgb(226,232,240);
+	margin-top:5px;
+	padding-left: 10px;
+	padding-right: 215px;
+	padding-bottom: 18px;
+	padding-top: 18px;
+	margin-bottom: 25px;
+}
+.password{
+	border : 1px;
+	background-color: rgb(226,232,240);
+	margin-top:5px;
+	padding-left: 10px;
+	padding-right: 215px;
+	padding-bottom: 18px;
+	padding-top: 18px;
+	margin-bottom: 25px;
+}
+.Refferal{
+	border : 1px;
+	background-color: rgb(226,232,240);
+	margin-top:5px;
+	padding-left: 10px;
+	padding-right: 215px;
+	padding-bottom: 18px;
+	padding-top: 18px;
+	margin-bottom: 25px;
+}
+.hear{
+	border : 1px;
+	background-color: rgb(226,232,240);
+	margin-top:5px;
+	padding-left: 10px;
+	padding-right: 175px;
+	padding-bottom: 18px;
+	padding-top: 18px;
+	margin-bottom: 25px;
+}
+.create{
+	border : 1px ;
+	background-color: rgb(6,40,99); 
+	text-align: center;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	margin-left:50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	padding-top: 3px;
+	padding-bottom:3px;
+	color: white;
+	font-family: arial;
+}
+.footer{
+	text-align: center;
+	font-family:segoe ui;
+	color: white;
+	margin-bottom: 50px;
+}
